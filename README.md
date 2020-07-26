@@ -11,3 +11,5 @@ Atuo desde 2011 com qualidade de software, sou formado em sistema de informaçã
 No meu gitHub você vai encontrar projetos de setup básico com alguns exemplos para Automação Web, Mobile e de API. Fique a vontade em seguir e acompanhar as atualizações.
 
 Qualquer dúvida pode me mandar e-mail no endereço pliniotuliosi@gmail. 
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plinio-tulio" />
